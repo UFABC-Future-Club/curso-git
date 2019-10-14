@@ -1,2 +1,4 @@
-# git_curso
+# Curso Git & GitHub
+
+
 repo educacional da entidade
